@@ -1,1 +1,10 @@
-
+Version 0.1.4
+Added support for YOU1ARE0IC's "Prosthetics" mod. (https://www.nexusmods.com/scavprototype/mods/40)
+Decreased parasites spawn chance.
+Decreased pneumothorax chance and made damage threshold higher.
+removed very epic easter egg
+Version 0.1.3
+patches some thingies
+changes descriptions for hemolytic reaction
+decreased parasites chance
+made some conditions dont appear in unchipped
