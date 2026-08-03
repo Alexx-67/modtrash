@@ -1,1 +1,8 @@
-
+Version 0.0.21
+Overhauled UI
+Made controls alot easier
+Added tile backgrounds
+Added magma liquid
+Misc bugfixes
+Added "Continious" mode
+Added brush settings
