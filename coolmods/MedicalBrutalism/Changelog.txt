@@ -1,3 +1,11 @@
+Version 1.1.4
+Added DNA health system
+Added blood acid balance system
+Added ability for items to absorb radiation and emit it
+Nerfed systemic infections
+Nerfed lacerations
+Nerfed parasites
+Now more items can heal lacerations
 Version 0.1.4
 Added support for YOU1ARE0IC's "Prosthetics" mod. (https://www.nexusmods.com/scavprototype/mods/40)
 Decreased parasites spawn chance.
